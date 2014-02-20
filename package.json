@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "mongojs": "^0.10.0"
+  }
+}
